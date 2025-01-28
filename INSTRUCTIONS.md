@@ -2,7 +2,7 @@
 ## IntegerCalc.java
 *   **Problem:** Write a Java program that declares two integer variables, num1 and num2, and assigns them values of 11 and 5 respectively (already done for you). Calculate the sum, difference, product, quotient, and remainder of these two numbers and print the results.
 
-*   **Hints:** Use the `+`, `-`, `\*`, `/`, and `//` operators for the arithmetic operations.
+*   **Hints:** Use the `+`, `-`, `\*`, `/`, and `%` operators for the arithmetic operations.
 
 
 ## DoubleDiscount.java
